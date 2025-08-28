@@ -1,2 +1,25 @@
-# Created-3-Countries-Flags-Using-HTMLand-CSS
-This project creates national flags using only HTML &amp; CSS without images. Includes 🇮🇳 India (tricolor with Ashoka Chakra), 🇧🇩 Bangladesh (green with red disc), and 🇨🇭 Switzerland (white with red cross). Simply open any .html file in a browser to view the flag.
+🎨 CSS Flag Project
+
+This project demonstrates how to design national flags using only HTML & CSS (without images).
+
+🏳️ Flags Included
+
+🇮🇳 India – Tricolor (Saffron, White, Green) with Ashoka Chakra (created using CSS repeating-conic-gradient).
+
+🇧🇩 Bangladesh – Green field with a centered red disc.
+
+🇨🇭 Switzerland – White background with a red cross.
+
+🛠️ Tech Stack
+
+HTML5 – for structure
+
+CSS3 – for colors, gradients, and shapes
+
+🚀 How to Run:
+
+1.Clone or download the repository.
+
+2.Open any .html file in your browser.
+
+3.View the respective flag 🎉
